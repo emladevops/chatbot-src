@@ -1,0 +1,41 @@
+[
+  {
+    "id": "18f11bd2-c923-4c81-ab6c-888e05328783",
+    "data": [
+      {
+        "text": "Sulday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ebc9f07-9c84-4bdd-a444-8bdcf6e89d9f",
+    "data": [
+      {
+        "text": "Sandal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64187539-ee66-4dfa-8b57-8e3c5078c1f6",
+    "data": [
+      {
+        "text": "Sanday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

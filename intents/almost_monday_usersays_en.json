@@ -1,0 +1,30 @@
+[
+  {
+    "id": "98374ad0-a201-40a9-826f-b22cde02f78d",
+    "data": [
+      {
+        "text": "Munday",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7676cba-f19e-4ad6-9dec-c9549b7fc59f",
+    "data": [
+      {
+        "text": "Manday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

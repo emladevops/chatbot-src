@@ -1,0 +1,41 @@
+[
+  {
+    "id": "6c3792c9-943d-4c02-96a9-69b842ad0462",
+    "data": [
+      {
+        "text": "tusday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56bd2a3e-d15c-4b8d-b3f0-e42555873c86",
+    "data": [
+      {
+        "text": "tueday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58cbb0b1-297b-43b0-a430-6781a679b5a8",
+    "data": [
+      {
+        "text": "teasday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

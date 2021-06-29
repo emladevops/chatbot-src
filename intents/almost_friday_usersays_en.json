@@ -1,0 +1,30 @@
+[
+  {
+    "id": "a57901d7-026d-49b5-af30-0960e044401d",
+    "data": [
+      {
+        "text": "fraiday",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01c2c80a-4eff-4a9b-9a0f-d1472a3825f8",
+    "data": [
+      {
+        "text": "fryday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

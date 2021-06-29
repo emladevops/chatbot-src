@@ -1,0 +1,28 @@
+[
+  {
+    "id": "dab3721f-a589-4275-8306-da1c19b03b3c",
+    "data": [
+      {
+        "text": "Thotday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08107919-2670-42f3-b83c-0e425b724ecb",
+    "data": [
+      {
+        "text": "Thurday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

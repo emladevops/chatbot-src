@@ -1,0 +1,28 @@
+[
+  {
+    "id": "059bc8c1-f51c-41e6-9629-33e009df0186",
+    "data": [
+      {
+        "text": "I am sad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c27a1718-ae62-45c8-9b31-64a8346234db",
+    "data": [
+      {
+        "text": "I\u0027m sad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
